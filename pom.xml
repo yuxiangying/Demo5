@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>Demo5</finalName>
+    <finalName>Demo5 </finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
